@@ -7,6 +7,7 @@ export const jobs = [
     postedDate: "2021-06-24T12:45:30.589Z",
     salaryLow: 310000,
     salaryHigh: 610000,
+    ok: 2,
     yrsXPExpected: 2,
     active: true,
     remote: false,
